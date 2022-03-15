@@ -1,5 +1,5 @@
 #Ex1.
-#nos permite usar turtle
+
 import turtle
 #cor da caneta rosa
 turtle.pencolor("lightpink")
